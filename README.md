@@ -17,7 +17,7 @@ A simple  weather application to get a city's weather forecast. My venture into 
 ##### 3. Drill into the details of a specific hourly forecast
 ![Alt text](/previewimages/detailedweather.png?raw=true "Optional Title")
 
-##### You can find the deployed version of the application here: https://the-unique-weather-app.firebaseapp.com/
+##### You can find the deployed version of the application here: [the-very-unique-weather-82ed7.web.app](https://the-very-unique-weather-82ed7.web.app)
 ## Getting the App to Work Locally
 ### Prerequisites
 You need to install NodeJS to run this program locally. Visit the official NodeJS website for how to do this.
